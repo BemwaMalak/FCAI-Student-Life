@@ -340,7 +340,7 @@ int main(){
     system ("CLS");
     game g;
     g.start();
-    
+    cout<<"bemwa";
 
 
     return 0;
